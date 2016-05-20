@@ -1,8 +1,8 @@
-layout_spectrum: 0.9371253
+layout_spectrum: 0.933942
 color:
   saturation: 0.9310929
   lightness: 0.672052
-  brandStrength: 0.9125118
+  brandStrength: 0
   brandColors:
     - '#E6F2F2'
     - '#101415'
