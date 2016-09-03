@@ -1,14 +1,26 @@
-layout_spectrum: 0.4817401
-typography_spectrum: 0.2661132
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  saturation: 0.9310929
-  lightness: 0.672052
+  saturation: 0.6385607
   brandStrength: 0
+  lightness: 0.4001074
   brandColors:
     - '#E6F2F2'
     - '#101415'
     - '#B3C9D4'
     - '#568998'
     - '#A3957F'
-  rhythmicContrast: 0.7334154
+  rhythmicContrast: 0.3625134
+typography_spectrum: 0.08754028
+layout_spectrum: 0.2003222
 name: Testrhehjjg
